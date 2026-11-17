@@ -1,4 +1,4 @@
-// ============================================================
+ // ============================================================
 // Day 003: Static Arrays — Basic Operations
 // File: day003_static_array_tb.sv
 // Purpose: Declare, fill, modify, and query a fixed-size array.
@@ -226,6 +226,3 @@ module register_file (
     end
 
 endmodule 
-
-
-\
